@@ -16,3 +16,14 @@ The compiler uses a symbol table to keep track of information about entities in 
 
 # Intermediate Code Generation
 The Visitor pattern and a selected set of LLVM instructions are utilized to produce LLVM's intermediate representation from the original MiniJava code.
+
+# Technologies Used
+Java
+
+JavaCC
+
+JTB
+
+JFlex
+
+Java CUP
